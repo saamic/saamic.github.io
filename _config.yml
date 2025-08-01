@@ -1,0 +1,6 @@
+title: Gatho
+description: Gatho website
+baseurl: ""
+url: "https://gatho.co"
+plugins:
+  - jekyll-redirect-from 
